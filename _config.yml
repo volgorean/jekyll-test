@@ -19,3 +19,25 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+collections:
+- ninjas
+- samurai
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: ninjas
+    values: 
+      title:
+      katana:
+      sandals:
+  -
+    scope:
+      path: ""
+      type: samurai
+    values:
+      title:
+      katana:
+      armour:
