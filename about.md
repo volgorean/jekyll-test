@@ -1,6 +1,6 @@
 ---
 title: About something
-layout: post
+layout: page
 permalink: "/about/"
 ---
 
