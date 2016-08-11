@@ -1,7 +1,8 @@
 ---
 title: Bibabbop
-date: '2016-08-10 22:08:00'
-katana: ''
+date: '2016-08-10 00:00:00'
+katana:
+- rad
 layout: ''
-sandals: ''
+sandals: woa bruh
 ---
