@@ -1,7 +1,7 @@
 ---
 title: Jim
 date: '2016-08-10 00:00:00'
-katana: '2016-08-11 00:00:00'
+katana: ''
 armour: ''
 layout: ''
 ---
