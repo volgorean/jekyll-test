@@ -1,7 +1,7 @@
 ---
 title: Knan
 date: '2016-08-11 00:00:00'
-katana: "/forestryio/images/modal-2.png"
+katana: "/forestryio/images/moee-2.png"
 layout: ''
 sandals: ''
 ---
