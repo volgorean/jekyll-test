@@ -1,6 +1,6 @@
 ---
 title: Jim
-date: '2016-08-10 11:40:00'
+date: '2016-08-10 00:00:00'
 katana: ''
 armour: ninja
 layout: ''
